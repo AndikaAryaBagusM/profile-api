@@ -2,8 +2,8 @@
 package routers
 
 import (
+	"github.com/AndikaAryaBagusM/profile-api/handlers"
 	"github.com/gin-gonic/gin"
-	"github.com/username/profile-api/handlers"
 )
 
 // SetupRouter: inisialisasi Gin dan daftarkan route‐route terkait profile

@@ -4,8 +4,8 @@ package main
 import (
 	"log"
 
-	"github.com/username/profile-api/database"
-	"github.com/username/profile-api/routers"
+	"github.com/AndikaAryaBagusM/profile-api/database"
+	"github.com/AndikaAryaBagusM/profile-api/routers"
 )
 
 func main() {

@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/AndikaAryaBagusM/profile-api/database"
+	"github.com/AndikaAryaBagusM/profile-api/models"
 	"github.com/gin-gonic/gin"
-	"github.com/username/profile-api/database"
-	"github.com/username/profile-api/models"
 )
 
 // GetProfiles: ambil semua profil
