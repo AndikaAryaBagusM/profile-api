@@ -1,4 +1,4 @@
-module github.com/AndikaAryaBagusM/profile.api
+module github.com/AndikaAryaBagusM/profile-api
 
 go 1.23.5
 
